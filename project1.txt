@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Team project
+=======
+
+>>>>>>> 6d3d24ce0cfdd9caabd1c75e0c48001420c660e9
