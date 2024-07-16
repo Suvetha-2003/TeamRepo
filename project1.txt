@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Team project
-=======
-Team project-2
->>>>>>> a48d925cf6c38c7c4885cb4d16278258743854e9
+
